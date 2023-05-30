@@ -1,0 +1,9 @@
+# Site settings
+title: Juan Tomás Sayago Gómez
+author:
+  name: Juan Sayago-Gomez
+  email: juantomas.sayago@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
